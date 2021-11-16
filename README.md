@@ -17,5 +17,6 @@ features
 -instant revive
 -nospread
 -speedhack (idk if it works xd)
+and some more
 
-and some more 
+thanks to NotSimcraftLOL#0001 
